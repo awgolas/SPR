@@ -1,0 +1,758 @@
+<?xml version='1.0' encoding='utf-8'?>
+<settings>
+  <run_mode>eigenvalue</run_mode>
+  <particles>100000</particles>
+  <batches>20</batches>
+  <inactive>10</inactive>
+  <generations_per_batch>1</generations_per_batch>
+  <source strength="0.4277121930517326">
+    <space type="point">
+      <parameters>0.0 0.0 -74.5</parameters>
+    </space>
+  </source>
+  <source strength="0.4602002115035124">
+    <space type="point">
+      <parameters>0.0 0.0 -73.5</parameters>
+    </space>
+  </source>
+  <source strength="0.4360401063941052">
+    <space type="point">
+      <parameters>0.0 0.0 -72.5</parameters>
+    </space>
+  </source>
+  <source strength="0.4932469425714826">
+    <space type="point">
+      <parameters>0.0 0.0 -71.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5023060077976222">
+    <space type="point">
+      <parameters>0.0 0.0 -70.5</parameters>
+    </space>
+  </source>
+  <source strength="0.531306575287574">
+    <space type="point">
+      <parameters>0.0 0.0 -69.5</parameters>
+    </space>
+  </source>
+  <source strength="0.557892530069113">
+    <space type="point">
+      <parameters>0.0 0.0 -68.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5892989907740258">
+    <space type="point">
+      <parameters>0.0 0.0 -67.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5846317121241962">
+    <space type="point">
+      <parameters>0.0 0.0 -66.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5992334431156142">
+    <space type="point">
+      <parameters>0.0 0.0 -65.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6053218669353251">
+    <space type="point">
+      <parameters>0.0 0.0 -64.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6155773972213889">
+    <space type="point">
+      <parameters>0.0 0.0 -63.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6332310186861189">
+    <space type="point">
+      <parameters>0.0 0.0 -62.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6947217158318709">
+    <space type="point">
+      <parameters>0.0 0.0 -61.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6779797541130921">
+    <space type="point">
+      <parameters>0.0 0.0 -60.5</parameters>
+    </space>
+  </source>
+  <source strength="0.7282656793208436">
+    <space type="point">
+      <parameters>0.0 0.0 -59.5</parameters>
+    </space>
+  </source>
+  <source strength="0.7460896840080085">
+    <space type="point">
+      <parameters>0.0 0.0 -58.5</parameters>
+    </space>
+  </source>
+  <source strength="0.7551161935379608">
+    <space type="point">
+      <parameters>0.0 0.0 -57.5</parameters>
+    </space>
+  </source>
+  <source strength="0.7835725365568946">
+    <space type="point">
+      <parameters>0.0 0.0 -56.5</parameters>
+    </space>
+  </source>
+  <source strength="0.7951868160076687">
+    <space type="point">
+      <parameters>0.0 0.0 -55.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8235588963363648">
+    <space type="point">
+      <parameters>0.0 0.0 -54.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8043523635668015">
+    <space type="point">
+      <parameters>0.0 0.0 -53.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8776333091127565">
+    <space type="point">
+      <parameters>0.0 0.0 -52.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8614369299339177">
+    <space type="point">
+      <parameters>0.0 0.0 -51.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8318029014719545">
+    <space type="point">
+      <parameters>0.0 0.0 -50.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8546461320092589">
+    <space type="point">
+      <parameters>0.0 0.0 -49.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8768675980400695">
+    <space type="point">
+      <parameters>0.0 0.0 -48.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8927334864746258">
+    <space type="point">
+      <parameters>0.0 0.0 -47.5</parameters>
+    </space>
+  </source>
+  <source strength="0.9613447963593496">
+    <space type="point">
+      <parameters>0.0 0.0 -46.5</parameters>
+    </space>
+  </source>
+  <source strength="0.9858965489699124">
+    <space type="point">
+      <parameters>0.0 0.0 -45.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0275832915963372">
+    <space type="point">
+      <parameters>0.0 0.0 -44.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0185880146879172">
+    <space type="point">
+      <parameters>0.0 0.0 -43.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0329727473623482">
+    <space type="point">
+      <parameters>0.0 0.0 -42.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0433372578808433">
+    <space type="point">
+      <parameters>0.0 0.0 -41.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0780683358286192">
+    <space type="point">
+      <parameters>0.0 0.0 -40.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0954843716110572">
+    <space type="point">
+      <parameters>0.0 0.0 -39.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0927574193806529">
+    <space type="point">
+      <parameters>0.0 0.0 -38.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1186277893128034">
+    <space type="point">
+      <parameters>0.0 0.0 -37.5</parameters>
+    </space>
+  </source>
+  <source strength="1.13049263237125">
+    <space type="point">
+      <parameters>0.0 0.0 -36.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1015124548002873">
+    <space type="point">
+      <parameters>0.0 0.0 -35.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1373631598685476">
+    <space type="point">
+      <parameters>0.0 0.0 -34.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1150870426441235">
+    <space type="point">
+      <parameters>0.0 0.0 -33.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1448457056690668">
+    <space type="point">
+      <parameters>0.0 0.0 -32.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1456591109091283">
+    <space type="point">
+      <parameters>0.0 0.0 -31.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1835074393047795">
+    <space type="point">
+      <parameters>0.0 0.0 -30.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1723691863114953">
+    <space type="point">
+      <parameters>0.0 0.0 -29.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2259468631910944">
+    <space type="point">
+      <parameters>0.0 0.0 -28.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2446418030968727">
+    <space type="point">
+      <parameters>0.0 0.0 -27.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2348728891320822">
+    <space type="point">
+      <parameters>0.0 0.0 -26.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2386932803670143">
+    <space type="point">
+      <parameters>0.0 0.0 -25.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2460191247975219">
+    <space type="point">
+      <parameters>0.0 0.0 -24.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2391733726495384">
+    <space type="point">
+      <parameters>0.0 0.0 -23.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2086295852390652">
+    <space type="point">
+      <parameters>0.0 0.0 -22.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2638981112918977">
+    <space type="point">
+      <parameters>0.0 0.0 -21.5</parameters>
+    </space>
+  </source>
+  <source strength="1.275772689762255">
+    <space type="point">
+      <parameters>0.0 0.0 -20.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2912133856136716">
+    <space type="point">
+      <parameters>0.0 0.0 -19.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2523725230986333">
+    <space type="point">
+      <parameters>0.0 0.0 -18.5</parameters>
+    </space>
+  </source>
+  <source strength="1.316683610730613">
+    <space type="point">
+      <parameters>0.0 0.0 -17.5</parameters>
+    </space>
+  </source>
+  <source strength="1.34193386168085">
+    <space type="point">
+      <parameters>0.0 0.0 -16.5</parameters>
+    </space>
+  </source>
+  <source strength="1.325589835101527">
+    <space type="point">
+      <parameters>0.0 0.0 -15.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2897405274525535">
+    <space type="point">
+      <parameters>0.0 0.0 -14.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3600454852462067">
+    <space type="point">
+      <parameters>0.0 0.0 -13.5</parameters>
+    </space>
+  </source>
+  <source strength="1.371335473746995">
+    <space type="point">
+      <parameters>0.0 0.0 -12.5</parameters>
+    </space>
+  </source>
+  <source strength="1.375144628339264">
+    <space type="point">
+      <parameters>0.0 0.0 -11.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3212783605079186">
+    <space type="point">
+      <parameters>0.0 0.0 -10.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3994974723621034">
+    <space type="point">
+      <parameters>0.0 0.0 -9.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3795069256102463">
+    <space type="point">
+      <parameters>0.0 0.0 -8.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3906809677462477">
+    <space type="point">
+      <parameters>0.0 0.0 -7.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3667261242375754">
+    <space type="point">
+      <parameters>0.0 0.0 -6.5</parameters>
+    </space>
+  </source>
+  <source strength="1.370949988654057">
+    <space type="point">
+      <parameters>0.0 0.0 -5.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3533370471217117">
+    <space type="point">
+      <parameters>0.0 0.0 -4.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3511796639507268">
+    <space type="point">
+      <parameters>0.0 0.0 -3.5</parameters>
+    </space>
+  </source>
+  <source strength="1.330409709581611">
+    <space type="point">
+      <parameters>0.0 0.0 -2.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3545874302497631">
+    <space type="point">
+      <parameters>0.0 0.0 -1.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3561001780542787">
+    <space type="point">
+      <parameters>0.0 0.0 -0.5</parameters>
+    </space>
+  </source>
+  <source strength="1.4037175373764839">
+    <space type="point">
+      <parameters>0.0 0.0 0.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3550065181650566">
+    <space type="point">
+      <parameters>0.0 0.0 1.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3509775217189963">
+    <space type="point">
+      <parameters>0.0 0.0 2.5</parameters>
+    </space>
+  </source>
+  <source strength="1.358785769393691">
+    <space type="point">
+      <parameters>0.0 0.0 3.5</parameters>
+    </space>
+  </source>
+  <source strength="1.357767207262479">
+    <space type="point">
+      <parameters>0.0 0.0 4.5</parameters>
+    </space>
+  </source>
+  <source strength="1.365268981688933">
+    <space type="point">
+      <parameters>0.0 0.0 5.5</parameters>
+    </space>
+  </source>
+  <source strength="1.365618343216619">
+    <space type="point">
+      <parameters>0.0 0.0 6.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3623716040727554">
+    <space type="point">
+      <parameters>0.0 0.0 7.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3441648969013977">
+    <space type="point">
+      <parameters>0.0 0.0 8.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3033963842626641">
+    <space type="point">
+      <parameters>0.0 0.0 9.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3339278936570593">
+    <space type="point">
+      <parameters>0.0 0.0 10.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3424187664665703">
+    <space type="point">
+      <parameters>0.0 0.0 11.5</parameters>
+    </space>
+  </source>
+  <source strength="1.336283958634497">
+    <space type="point">
+      <parameters>0.0 0.0 12.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2934737836473311">
+    <space type="point">
+      <parameters>0.0 0.0 13.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3100676158770799">
+    <space type="point">
+      <parameters>0.0 0.0 14.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2722726158655258">
+    <space type="point">
+      <parameters>0.0 0.0 15.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3062072450091615">
+    <space type="point">
+      <parameters>0.0 0.0 16.5</parameters>
+    </space>
+  </source>
+  <source strength="1.287332102623206">
+    <space type="point">
+      <parameters>0.0 0.0 17.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2859332577432439">
+    <space type="point">
+      <parameters>0.0 0.0 18.5</parameters>
+    </space>
+  </source>
+  <source strength="1.3175345407669856">
+    <space type="point">
+      <parameters>0.0 0.0 19.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2410666349775858">
+    <space type="point">
+      <parameters>0.0 0.0 20.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2574398003574339">
+    <space type="point">
+      <parameters>0.0 0.0 21.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2547749405763222">
+    <space type="point">
+      <parameters>0.0 0.0 22.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2532637997049547">
+    <space type="point">
+      <parameters>0.0 0.0 23.5</parameters>
+    </space>
+  </source>
+  <source strength="1.222279666853981">
+    <space type="point">
+      <parameters>0.0 0.0 24.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2495949720703703">
+    <space type="point">
+      <parameters>0.0 0.0 25.5</parameters>
+    </space>
+  </source>
+  <source strength="1.2108204003325789">
+    <space type="point">
+      <parameters>0.0 0.0 26.5</parameters>
+    </space>
+  </source>
+  <source strength="1.187120612691269">
+    <space type="point">
+      <parameters>0.0 0.0 27.5</parameters>
+    </space>
+  </source>
+  <source strength="1.163399785578864">
+    <space type="point">
+      <parameters>0.0 0.0 28.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1796956012425355">
+    <space type="point">
+      <parameters>0.0 0.0 29.5</parameters>
+    </space>
+  </source>
+  <source strength="1.1381953698810372">
+    <space type="point">
+      <parameters>0.0 0.0 30.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0851192286979687">
+    <space type="point">
+      <parameters>0.0 0.0 31.5</parameters>
+    </space>
+  </source>
+  <source strength="1.092215214326644">
+    <space type="point">
+      <parameters>0.0 0.0 32.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0546947990916757">
+    <space type="point">
+      <parameters>0.0 0.0 33.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0424876423625833">
+    <space type="point">
+      <parameters>0.0 0.0 34.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0487425695415062">
+    <space type="point">
+      <parameters>0.0 0.0 35.5</parameters>
+    </space>
+  </source>
+  <source strength="1.041188520079348">
+    <space type="point">
+      <parameters>0.0 0.0 36.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0590062269600535">
+    <space type="point">
+      <parameters>0.0 0.0 37.5</parameters>
+    </space>
+  </source>
+  <source strength="1.070234177768989">
+    <space type="point">
+      <parameters>0.0 0.0 38.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0522550900049539">
+    <space type="point">
+      <parameters>0.0 0.0 39.5</parameters>
+    </space>
+  </source>
+  <source strength="1.0212083946045816">
+    <space type="point">
+      <parameters>0.0 0.0 40.5</parameters>
+    </space>
+  </source>
+  <source strength="0.9731577972003225">
+    <space type="point">
+      <parameters>0.0 0.0 41.5</parameters>
+    </space>
+  </source>
+  <source strength="0.9834859299674865">
+    <space type="point">
+      <parameters>0.0 0.0 42.5</parameters>
+    </space>
+  </source>
+  <source strength="0.9566160353433648">
+    <space type="point">
+      <parameters>0.0 0.0 43.5</parameters>
+    </space>
+  </source>
+  <source strength="0.9411810088784641">
+    <space type="point">
+      <parameters>0.0 0.0 44.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8942962753675627">
+    <space type="point">
+      <parameters>0.0 0.0 45.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8626419483542631">
+    <space type="point">
+      <parameters>0.0 0.0 46.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8644993422217447">
+    <space type="point">
+      <parameters>0.0 0.0 47.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8631518034818718">
+    <space type="point">
+      <parameters>0.0 0.0 48.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8353861044659787">
+    <space type="point">
+      <parameters>0.0 0.0 49.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8249377326788606">
+    <space type="point">
+      <parameters>0.0 0.0 50.5</parameters>
+    </space>
+  </source>
+  <source strength="0.8413320577213907">
+    <space type="point">
+      <parameters>0.0 0.0 51.5</parameters>
+    </space>
+  </source>
+  <source strength="0.758878904132821">
+    <space type="point">
+      <parameters>0.0 0.0 52.5</parameters>
+    </space>
+  </source>
+  <source strength="0.7657956583925105">
+    <space type="point">
+      <parameters>0.0 0.0 53.5</parameters>
+    </space>
+  </source>
+  <source strength="0.7403642957338942">
+    <space type="point">
+      <parameters>0.0 0.0 54.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6965738770853226">
+    <space type="point">
+      <parameters>0.0 0.0 55.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6712456540220332">
+    <space type="point">
+      <parameters>0.0 0.0 56.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6940060321899751">
+    <space type="point">
+      <parameters>0.0 0.0 57.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6720126539894307">
+    <space type="point">
+      <parameters>0.0 0.0 58.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6449160858809359">
+    <space type="point">
+      <parameters>0.0 0.0 59.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5942979915787886">
+    <space type="point">
+      <parameters>0.0 0.0 60.5</parameters>
+    </space>
+  </source>
+  <source strength="0.6071020941636386">
+    <space type="point">
+      <parameters>0.0 0.0 61.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5868016341437267">
+    <space type="point">
+      <parameters>0.0 0.0 62.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5847297257220603">
+    <space type="point">
+      <parameters>0.0 0.0 63.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5345826419309114">
+    <space type="point">
+      <parameters>0.0 0.0 64.5</parameters>
+    </space>
+  </source>
+  <source strength="0.5193322900570537">
+    <space type="point">
+      <parameters>0.0 0.0 65.5</parameters>
+    </space>
+  </source>
+  <source strength="0.4897236798527652">
+    <space type="point">
+      <parameters>0.0 0.0 66.5</parameters>
+    </space>
+  </source>
+  <source strength="0.46612346396870874">
+    <space type="point">
+      <parameters>0.0 0.0 67.5</parameters>
+    </space>
+  </source>
+  <source strength="0.4389908045654087">
+    <space type="point">
+      <parameters>0.0 0.0 68.5</parameters>
+    </space>
+  </source>
+  <source strength="0.45515161826758743">
+    <space type="point">
+      <parameters>0.0 0.0 69.5</parameters>
+    </space>
+  </source>
+  <source strength="0.4543655149843786">
+    <space type="point">
+      <parameters>0.0 0.0 70.5</parameters>
+    </space>
+  </source>
+  <source strength="0.43058798758178085">
+    <space type="point">
+      <parameters>0.0 0.0 71.5</parameters>
+    </space>
+  </source>
+  <source strength="0.3614964946508908">
+    <space type="point">
+      <parameters>0.0 0.0 72.5</parameters>
+    </space>
+  </source>
+  <source strength="0.36804599115531156">
+    <space type="point">
+      <parameters>0.0 0.0 73.5</parameters>
+    </space>
+  </source>
+  <source strength="0.3454376628774558">
+    <space type="point">
+      <parameters>0.0 0.0 74.5</parameters>
+    </space>
+  </source>
+</settings>

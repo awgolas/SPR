@@ -1,0 +1,766 @@
+ ========================>     TALLY 1: TOTAL     <=========================
+
+ Total Material
+   heating                              7.28e+07 +/- 24371.1
+   heating-local                        8.13888e+07 +/- 26981.7
+   Kappa-Fission Rate                   7.97413e+07 +/- 27398.7
+ =======================>     TALLY 2: UNIVERSE     <=======================
+
+ Universe 38
+   Total Material
+     heating                              78975.8 +/- 147.5
+     heating-local                        87924.8 +/- 162.217
+     Kappa-Fission Rate                   86763.9 +/- 182.465
+ ==================>     TALLY 3: MESH AND UNIVERSE     <===================
+
+ Universe 38
+   Mesh Index (1, 1, 1)
+     Total Material
+       heating                              227.412 +/- 7.83482
+       heating-local                        252.737 +/- 8.53024
+       Kappa-Fission Rate                   247.4 +/- 7.95072
+   Mesh Index (1, 1, 2)
+     Total Material
+       heating                              241.723 +/- 5.4628
+       heating-local                        268.318 +/- 6.09202
+       Kappa-Fission Rate                   266.192 +/- 5.79181
+   Mesh Index (1, 1, 3)
+     Total Material
+       heating                              228.602 +/- 5.88383
+       heating-local                        254.253 +/- 6.54039
+       Kappa-Fission Rate                   252.217 +/- 5.36134
+   Mesh Index (1, 1, 4)
+     Total Material
+       heating                              259.485 +/- 5.29673
+       heating-local                        288.503 +/- 5.8955
+       Kappa-Fission Rate                   285.307 +/- 6.46913
+   Mesh Index (1, 1, 5)
+     Total Material
+       heating                              262.761 +/- 11.2767
+       heating-local                        292.783 +/- 12.4452
+       Kappa-Fission Rate                   290.547 +/- 12.7651
+   Mesh Index (1, 1, 6)
+     Total Material
+       heating                              278.782 +/- 11.2496
+       heating-local                        310.11 +/- 12.3789
+       Kappa-Fission Rate                   307.322 +/- 11.7024
+   Mesh Index (1, 1, 7)
+     Total Material
+       heating                              291.05 +/- 8.51466
+       heating-local                        323.744 +/- 9.35524
+       Kappa-Fission Rate                   322.7 +/- 9.686
+   Mesh Index (1, 1, 8)
+     Total Material
+       heating                              309.046 +/- 7.35197
+       heating-local                        344.13 +/- 8.21391
+       Kappa-Fission Rate                   340.866 +/- 6.7996
+   Mesh Index (1, 1, 9)
+     Total Material
+       heating                              308.951 +/- 4.84392
+       heating-local                        344.071 +/- 5.1639
+       Kappa-Fission Rate                   338.166 +/- 6.02954
+   Mesh Index (1, 1, 10)
+     Total Material
+       heating                              315.289 +/- 6.52626
+       heating-local                        351.158 +/- 7.22691
+       Kappa-Fission Rate                   346.612 +/- 6.42464
+   Mesh Index (1, 1, 11)
+     Total Material
+       heating                              316.439 +/- 10.0649
+       heating-local                        352.116 +/- 11.0656
+       Kappa-Fission Rate                   350.134 +/- 10.5498
+   Mesh Index (1, 1, 12)
+     Total Material
+       heating                              325.463 +/- 14.3503
+       heating-local                        362.111 +/- 15.9503
+       Kappa-Fission Rate                   356.066 +/- 15.9932
+   Mesh Index (1, 1, 13)
+     Total Material
+       heating                              333.041 +/- 5.26858
+       heating-local                        370.919 +/- 6.0476
+       Kappa-Fission Rate                   366.277 +/- 6.76283
+   Mesh Index (1, 1, 14)
+     Total Material
+       heating                              367.178 +/- 10.6486
+       heating-local                        408.862 +/- 11.8903
+       Kappa-Fission Rate                   401.845 +/- 11.1417
+   Mesh Index (1, 1, 15)
+     Total Material
+       heating                              357.349 +/- 3.30338
+       heating-local                        398.03 +/- 3.73944
+       Kappa-Fission Rate                   392.161 +/- 3.10275
+   Mesh Index (1, 1, 16)
+     Total Material
+       heating                              383.124 +/- 8.63046
+       heating-local                        426.904 +/- 9.71974
+       Kappa-Fission Rate                   421.248 +/- 9.5022
+   Mesh Index (1, 1, 17)
+     Total Material
+       heating                              393.389 +/- 14.1892
+       heating-local                        438.137 +/- 15.6918
+       Kappa-Fission Rate                   431.558 +/- 15.0837
+   Mesh Index (1, 1, 18)
+     Total Material
+       heating                              399.006 +/- 8.2941
+       heating-local                        443.993 +/- 9.44361
+       Kappa-Fission Rate                   436.779 +/- 8.15486
+   Mesh Index (1, 1, 19)
+     Total Material
+       heating                              412.422 +/- 7.90404
+       heating-local                        459.717 +/- 9.00072
+       Kappa-Fission Rate                   453.239 +/- 7.78547
+   Mesh Index (1, 1, 20)
+     Total Material
+       heating                              418.097 +/- 6.2156
+       heating-local                        465.499 +/- 6.57681
+       Kappa-Fission Rate                   459.957 +/- 5.29998
+   Mesh Index (1, 1, 21)
+     Total Material
+       heating                              432.218 +/- 10.2811
+       heating-local                        481.406 +/- 11.0325
+       Kappa-Fission Rate                   476.368 +/- 11.0245
+   Mesh Index (1, 1, 22)
+     Total Material
+       heating                              423.089 +/- 9.77684
+       heating-local                        470.553 +/- 10.8266
+       Kappa-Fission Rate                   465.258 +/- 10.5062
+   Mesh Index (1, 1, 23)
+     Total Material
+       heating                              463.635 +/- 14.4462
+       heating-local                        516.167 +/- 16.2306
+       Kappa-Fission Rate                   507.646 +/- 16.7312
+   Mesh Index (1, 1, 24)
+     Total Material
+       heating                              454.088 +/- 13.8578
+       heating-local                        505.479 +/- 14.9503
+       Kappa-Fission Rate                   498.278 +/- 14.3237
+   Mesh Index (1, 1, 25)
+     Total Material
+       heating                              439.501 +/- 20.7686
+       heating-local                        488.945 +/- 22.8957
+       Kappa-Fission Rate                   481.136 +/- 23.2577
+   Mesh Index (1, 1, 26)
+     Total Material
+       heating                              449.481 +/- 11.0869
+       heating-local                        499.899 +/- 12.4728
+       Kappa-Fission Rate                   494.35 +/- 12.9226
+   Mesh Index (1, 1, 27)
+     Total Material
+       heating                              463.059 +/- 9.50747
+       heating-local                        515.31 +/- 10.6109
+       Kappa-Fission Rate                   507.203 +/- 12.9987
+   Mesh Index (1, 1, 28)
+     Total Material
+       heating                              470.855 +/- 9.16824
+       heating-local                        524.321 +/- 10.134
+       Kappa-Fission Rate                   516.38 +/- 11.2227
+   Mesh Index (1, 1, 29)
+     Total Material
+       heating                              506.688 +/- 4.52108
+       heating-local                        564.278 +/- 5.06395
+       Kappa-Fission Rate                   556.067 +/- 4.34076
+   Mesh Index (1, 1, 30)
+     Total Material
+       heating                              518.202 +/- 6.07442
+       heating-local                        576.992 +/- 6.79555
+       Kappa-Fission Rate                   570.268 +/- 6.34574
+   Mesh Index (1, 1, 31)
+     Total Material
+       heating                              539.829 +/- 9.08447
+       heating-local                        601.271 +/- 10.2549
+       Kappa-Fission Rate                   594.381 +/- 10.0751
+   Mesh Index (1, 1, 32)
+     Total Material
+       heating                              537.236 +/- 10.4591
+       heating-local                        598.715 +/- 12.1021
+       Kappa-Fission Rate                   589.178 +/- 12.0269
+   Mesh Index (1, 1, 33)
+     Total Material
+       heating                              543.236 +/- 19.9256
+       heating-local                        604.547 +/- 22.2724
+       Kappa-Fission Rate                   597.498 +/- 23.4686
+   Mesh Index (1, 1, 34)
+     Total Material
+       heating                              549.136 +/- 7.61509
+       heating-local                        611.972 +/- 8.31108
+       Kappa-Fission Rate                   603.493 +/- 8.4051
+   Mesh Index (1, 1, 35)
+     Total Material
+       heating                              567.698 +/- 6.60728
+       heating-local                        632.602 +/- 7.40705
+       Kappa-Fission Rate                   623.583 +/- 6.86975
+   Mesh Index (1, 1, 36)
+     Total Material
+       heating                              575.361 +/- 17.0355
+       heating-local                        640.117 +/- 18.93
+       Kappa-Fission Rate                   633.657 +/- 18.5067
+   Mesh Index (1, 1, 37)
+     Total Material
+       heating                              575.252 +/- 9.49177
+       heating-local                        640.625 +/- 10.6854
+       Kappa-Fission Rate                   632.079 +/- 9.27679
+   Mesh Index (1, 1, 38)
+     Total Material
+       heating                              588.649 +/- 13.7368
+       heating-local                        654.795 +/- 15.3732
+       Kappa-Fission Rate                   647.043 +/- 15.155
+   Mesh Index (1, 1, 39)
+     Total Material
+       heating                              591.981 +/- 12.2081
+       heating-local                        659.166 +/- 13.7548
+       Kappa-Fission Rate                   653.906 +/- 14.2429
+   Mesh Index (1, 1, 40)
+     Total Material
+       heating                              579.983 +/- 12.288
+       heating-local                        645.567 +/- 13.4466
+       Kappa-Fission Rate                   637.143 +/- 12.6317
+   Mesh Index (1, 1, 41)
+     Total Material
+       heating                              598.001 +/- 13.4897
+       heating-local                        665.959 +/- 15.0684
+       Kappa-Fission Rate                   657.88 +/- 14.7155
+   Mesh Index (1, 1, 42)
+     Total Material
+       heating                              588.751 +/- 10.6309
+       heating-local                        655.371 +/- 11.8343
+       Kappa-Fission Rate                   644.995 +/- 12.9984
+   Mesh Index (1, 1, 43)
+     Total Material
+       heating                              603.881 +/- 17.0242
+       heating-local                        672.527 +/- 18.892
+       Kappa-Fission Rate                   662.209 +/- 19.1546
+   Mesh Index (1, 1, 44)
+     Total Material
+       heating                              603.698 +/- 21.1626
+       heating-local                        672.038 +/- 23.2909
+       Kappa-Fission Rate                   662.679 +/- 24.5465
+   Mesh Index (1, 1, 45)
+     Total Material
+       heating                              623.645 +/- 7.12647
+       heating-local                        694.419 +/- 8.24365
+       Kappa-Fission Rate                   684.572 +/- 9.01129
+   Mesh Index (1, 1, 46)
+     Total Material
+       heating                              620.167 +/- 12.3891
+       heating-local                        690.645 +/- 13.7211
+       Kappa-Fission Rate                   678.129 +/- 14.1426
+   Mesh Index (1, 1, 47)
+     Total Material
+       heating                              644.345 +/- 11.0949
+       heating-local                        717.073 +/- 12.6056
+       Kappa-Fission Rate                   709.12 +/- 12.0005
+   Mesh Index (1, 1, 48)
+     Total Material
+       heating                              656.225 +/- 13.4138
+       heating-local                        731.409 +/- 14.7486
+       Kappa-Fission Rate                   719.933 +/- 16.0769
+   Mesh Index (1, 1, 49)
+     Total Material
+       heating                              649.258 +/- 10.9708
+       heating-local                        722.449 +/- 12.2885
+       Kappa-Fission Rate                   714.283 +/- 11.6251
+   Mesh Index (1, 1, 50)
+     Total Material
+       heating                              653.934 +/- 18.3439
+       heating-local                        728.353 +/- 20.456
+       Kappa-Fission Rate                   716.492 +/- 20.4619
+   Mesh Index (1, 1, 51)
+     Total Material
+       heating                              654.538 +/- 10.6064
+       heating-local                        728.77 +/- 11.8614
+       Kappa-Fission Rate                   720.73 +/- 11.0804
+   Mesh Index (1, 1, 52)
+     Total Material
+       heating                              653.709 +/- 13.08
+       heating-local                        727.605 +/- 14.4983
+       Kappa-Fission Rate                   716.77 +/- 14.6268
+   Mesh Index (1, 1, 53)
+     Total Material
+       heating                              636.89 +/- 3.35103
+       heating-local                        708.998 +/- 3.7646
+       Kappa-Fission Rate                   699.103 +/- 4.67119
+   Mesh Index (1, 1, 54)
+     Total Material
+       heating                              664.521 +/- 17.6158
+       heating-local                        740.138 +/- 19.6749
+       Kappa-Fission Rate                   731.072 +/- 20.0431
+   Mesh Index (1, 1, 55)
+     Total Material
+       heating                              671.101 +/- 13.2235
+       heating-local                        746.642 +/- 14.5194
+       Kappa-Fission Rate                   737.94 +/- 15.541
+   Mesh Index (1, 1, 56)
+     Total Material
+       heating                              677.654 +/- 16.4209
+       heating-local                        754.195 +/- 17.7799
+       Kappa-Fission Rate                   746.871 +/- 19.4895
+   Mesh Index (1, 1, 57)
+     Total Material
+       heating                              660.525 +/- 10.0878
+       heating-local                        735.153 +/- 11.3102
+       Kappa-Fission Rate                   724.405 +/- 13.2948
+   Mesh Index (1, 1, 58)
+     Total Material
+       heating                              693.723 +/- 12.5989
+       heating-local                        771.892 +/- 13.7589
+       Kappa-Fission Rate                   761.604 +/- 13.6221
+   Mesh Index (1, 1, 59)
+     Total Material
+       heating                              703.942 +/- 11.6413
+       heating-local                        783.794 +/- 13.356
+       Kappa-Fission Rate                   776.209 +/- 14.4313
+   Mesh Index (1, 1, 60)
+     Total Material
+       heating                              695.236 +/- 12.5603
+       heating-local                        773.952 +/- 14.242
+       Kappa-Fission Rate                   766.756 +/- 15.3236
+   Mesh Index (1, 1, 61)
+     Total Material
+       heating                              679.283 +/- 5.38375
+       heating-local                        755.713 +/- 6.24205
+       Kappa-Fission Rate                   746.02 +/- 6.13322
+   Mesh Index (1, 1, 62)
+     Total Material
+       heating                              714.591 +/- 14.7614
+       heating-local                        795.371 +/- 16.5534
+       Kappa-Fission Rate                   786.686 +/- 15.1751
+   Mesh Index (1, 1, 63)
+     Total Material
+       heating                              721.944 +/- 12.3698
+       heating-local                        803.186 +/- 13.6597
+       Kappa-Fission Rate                   793.216 +/- 14.099
+   Mesh Index (1, 1, 64)
+     Total Material
+       heating                              722.751 +/- 13.6553
+       heating-local                        804.694 +/- 15.1582
+       Kappa-Fission Rate                   795.419 +/- 14.2316
+   Mesh Index (1, 1, 65)
+     Total Material
+       heating                              696.012 +/- 14.5254
+       heating-local                        774.993 +/- 16.4107
+       Kappa-Fission Rate                   764.262 +/- 15.5278
+   Mesh Index (1, 1, 66)
+     Total Material
+       heating                              734.787 +/- 21.7534
+       heating-local                        818.599 +/- 23.9277
+       Kappa-Fission Rate                   809.506 +/- 24.862
+   Mesh Index (1, 1, 67)
+     Total Material
+       heating                              726.716 +/- 21.091
+       heating-local                        808.714 +/- 23.098
+       Kappa-Fission Rate                   797.943 +/- 21.5927
+   Mesh Index (1, 1, 68)
+     Total Material
+       heating                              731.675 +/- 14.3464
+       heating-local                        814.345 +/- 15.4548
+       Kappa-Fission Rate                   804.406 +/- 13.8791
+   Mesh Index (1, 1, 69)
+     Total Material
+       heating                              718.395 +/- 8.91031
+       heating-local                        800.437 +/- 9.50862
+       Kappa-Fission Rate                   790.55 +/- 10.3703
+   Mesh Index (1, 1, 70)
+     Total Material
+       heating                              722.108 +/- 19.8387
+       heating-local                        803.423 +/- 22.1222
+       Kappa-Fission Rate                   792.993 +/- 21.9078
+   Mesh Index (1, 1, 71)
+     Total Material
+       heating                              713.708 +/- 11.5534
+       heating-local                        793.927 +/- 12.7868
+       Kappa-Fission Rate                   782.805 +/- 14.2843
+   Mesh Index (1, 1, 72)
+     Total Material
+       heating                              713.914 +/- 13.9281
+       heating-local                        794.284 +/- 15.2871
+       Kappa-Fission Rate                   781.558 +/- 16.5988
+   Mesh Index (1, 1, 73)
+     Total Material
+       heating                              703.028 +/- 7.20506
+       heating-local                        782.544 +/- 8.1208
+       Kappa-Fission Rate                   769.544 +/- 8.02876
+   Mesh Index (1, 1, 74)
+     Total Material
+       heating                              713.69 +/- 11.2926
+       heating-local                        794.53 +/- 12.701
+       Kappa-Fission Rate                   783.529 +/- 12.3457
+   Mesh Index (1, 1, 75)
+     Total Material
+       heating                              712.788 +/- 10.2119
+       heating-local                        793.412 +/- 11.486
+       Kappa-Fission Rate                   784.404 +/- 10.8514
+   Mesh Index (1, 1, 76)
+     Total Material
+       heating                              741.15 +/- 15.2359
+       heating-local                        825.136 +/- 16.8615
+       Kappa-Fission Rate                   811.947 +/- 17.0157
+   Mesh Index (1, 1, 77)
+     Total Material
+       heating                              713.449 +/- 28.4074
+       heating-local                        794.392 +/- 31.3785
+       Kappa-Fission Rate                   783.771 +/- 31.9434
+   Mesh Index (1, 1, 78)
+     Total Material
+       heating                              712.018 +/- 15.2604
+       heating-local                        793.112 +/- 16.7084
+       Kappa-Fission Rate                   781.441 +/- 17.1555
+   Mesh Index (1, 1, 79)
+     Total Material
+       heating                              713.866 +/- 4.51788
+       heating-local                        794.764 +/- 4.82113
+       Kappa-Fission Rate                   785.957 +/- 4.67692
+   Mesh Index (1, 1, 80)
+     Total Material
+       heating                              713.544 +/- 10.9145
+       heating-local                        794.511 +/- 12.1823
+       Kappa-Fission Rate                   785.368 +/- 12.3124
+   Mesh Index (1, 1, 81)
+     Total Material
+       heating                              719.943 +/- 13.1139
+       heating-local                        802.199 +/- 14.4686
+       Kappa-Fission Rate                   789.707 +/- 14.5087
+   Mesh Index (1, 1, 82)
+     Total Material
+       heating                              720.621 +/- 27.1535
+       heating-local                        803.098 +/- 31.4515
+       Kappa-Fission Rate                   789.909 +/- 29.0962
+   Mesh Index (1, 1, 83)
+     Total Material
+       heating                              719.069 +/- 4.6294
+       heating-local                        799.537 +/- 4.99866
+       Kappa-Fission Rate                   788.031 +/- 4.89555
+   Mesh Index (1, 1, 84)
+     Total Material
+       heating                              709.327 +/- 9.60655
+       heating-local                        789.234 +/- 10.5094
+       Kappa-Fission Rate                   777.5 +/- 11.9845
+   Mesh Index (1, 1, 85)
+     Total Material
+       heating                              688.66 +/- 7.76253
+       heating-local                        766.051 +/- 8.46161
+       Kappa-Fission Rate                   753.918 +/- 8.55326
+   Mesh Index (1, 1, 86)
+     Total Material
+       heating                              703.624 +/- 19.4672
+       heating-local                        782.659 +/- 21.4734
+       Kappa-Fission Rate                   771.579 +/- 20.6978
+   Mesh Index (1, 1, 87)
+     Total Material
+       heating                              707.868 +/- 21.3774
+       heating-local                        787.888 +/- 23.8748
+       Kappa-Fission Rate                   776.49 +/- 23.8588
+   Mesh Index (1, 1, 88)
+     Total Material
+       heating                              700.726 +/- 22.1257
+       heating-local                        780.478 +/- 24.3004
+       Kappa-Fission Rate                   772.941 +/- 23.2013
+   Mesh Index (1, 1, 89)
+     Total Material
+       heating                              681.712 +/- 13.6855
+       heating-local                        758.42 +/- 15.1811
+       Kappa-Fission Rate                   748.179 +/- 15.3577
+   Mesh Index (1, 1, 90)
+     Total Material
+       heating                              689.813 +/- 8.22685
+       heating-local                        767.309 +/- 9.17544
+       Kappa-Fission Rate                   757.777 +/- 9.50371
+   Mesh Index (1, 1, 91)
+     Total Material
+       heating                              670.709 +/- 8.08172
+       heating-local                        746.515 +/- 8.79526
+       Kappa-Fission Rate                   735.916 +/- 8.67154
+   Mesh Index (1, 1, 92)
+     Total Material
+       heating                              686.014 +/- 13.6931
+       heating-local                        763.471 +/- 14.9648
+       Kappa-Fission Rate                   755.544 +/- 16.3309
+   Mesh Index (1, 1, 93)
+     Total Material
+       heating                              675.573 +/- 11.9684
+       heating-local                        751.721 +/- 13.3865
+       Kappa-Fission Rate                   744.626 +/- 13.5613
+   Mesh Index (1, 1, 94)
+     Total Material
+       heating                              676.878 +/- 18.4496
+       heating-local                        754.545 +/- 20.7295
+       Kappa-Fission Rate                   743.817 +/- 20.3617
+   Mesh Index (1, 1, 95)
+     Total Material
+       heating                              695.17 +/- 9.62897
+       heating-local                        774.484 +/- 10.434
+       Kappa-Fission Rate                   762.096 +/- 11.5376
+   Mesh Index (1, 1, 96)
+     Total Material
+       heating                              651.571 +/- 12.0721
+       heating-local                        725.088 +/- 13.0618
+       Kappa-Fission Rate                   717.865 +/- 14.3378
+   Mesh Index (1, 1, 97)
+     Total Material
+       heating                              663.115 +/- 12.2591
+       heating-local                        738.712 +/- 13.872
+       Kappa-Fission Rate                   727.336 +/- 14.5665
+   Mesh Index (1, 1, 98)
+     Total Material
+       heating                              661.678 +/- 5.78195
+       heating-local                        737.039 +/- 6.62901
+       Kappa-Fission Rate                   725.795 +/- 5.93661
+   Mesh Index (1, 1, 99)
+     Total Material
+       heating                              662.578 +/- 16.0125
+       heating-local                        737.744 +/- 17.744
+       Kappa-Fission Rate                   724.92 +/- 17.5921
+   Mesh Index (1, 1, 100)
+     Total Material
+       heating                              644.797 +/- 15.3352
+       heating-local                        718.391 +/- 16.6426
+       Kappa-Fission Rate                   706.998 +/- 16.759
+   Mesh Index (1, 1, 101)
+     Total Material
+       heating                              660.443 +/- 17.8093
+       heating-local                        735.237 +/- 19.7676
+       Kappa-Fission Rate                   722.798 +/- 20.1715
+   Mesh Index (1, 1, 102)
+     Total Material
+       heating                              640.042 +/- 14.4836
+       heating-local                        711.822 +/- 15.7188
+       Kappa-Fission Rate                   700.37 +/- 15.2467
+   Mesh Index (1, 1, 103)
+     Total Material
+       heating                              623.809 +/- 9.85793
+       heating-local                        695.419 +/- 10.8957
+       Kappa-Fission Rate                   686.661 +/- 11.1917
+   Mesh Index (1, 1, 104)
+     Total Material
+       heating                              611.077 +/- 16.7647
+       heating-local                        680.902 +/- 18.4592
+       Kappa-Fission Rate                   672.941 +/- 19.9827
+   Mesh Index (1, 1, 105)
+     Total Material
+       heating                              620.955 +/- 15.0864
+       heating-local                        691.499 +/- 16.8497
+       Kappa-Fission Rate                   682.367 +/- 16.1274
+   Mesh Index (1, 1, 106)
+     Total Material
+       heating                              600.035 +/- 15.0531
+       heating-local                        668.211 +/- 16.7183
+       Kappa-Fission Rate                   658.362 +/- 15.2457
+   Mesh Index (1, 1, 107)
+     Total Material
+       heating                              572.206 +/- 7.60107
+       heating-local                        636.983 +/- 8.2759
+       Kappa-Fission Rate                   627.661 +/- 7.71178
+   Mesh Index (1, 1, 108)
+     Total Material
+       heating                              574.837 +/- 16.5867
+       heating-local                        640.112 +/- 18.7298
+       Kappa-Fission Rate                   631.766 +/- 20.6948
+   Mesh Index (1, 1, 109)
+     Total Material
+       heating                              554.734 +/- 12.4473
+       heating-local                        617.677 +/- 13.8393
+       Kappa-Fission Rate                   610.063 +/- 13.7971
+   Mesh Index (1, 1, 110)
+     Total Material
+       heating                              550.628 +/- 15.7678
+       heating-local                        612.956 +/- 17.4726
+       Kappa-Fission Rate                   603.002 +/- 17.968
+   Mesh Index (1, 1, 111)
+     Total Material
+       heating                              551.932 +/- 12.4933
+       heating-local                        614.487 +/- 13.9807
+       Kappa-Fission Rate                   606.62 +/- 13.8645
+   Mesh Index (1, 1, 112)
+     Total Material
+       heating                              549.078 +/- 17.8759
+       heating-local                        610.793 +/- 19.6834
+       Kappa-Fission Rate                   602.251 +/- 21.2046
+   Mesh Index (1, 1, 113)
+     Total Material
+       heating                              559.127 +/- 13.7808
+       heating-local                        623.132 +/- 14.5891
+       Kappa-Fission Rate                   612.557 +/- 14.6097
+   Mesh Index (1, 1, 114)
+     Total Material
+       heating                              563.037 +/- 13.8776
+       heating-local                        627.26 +/- 15.5041
+       Kappa-Fission Rate                   619.051 +/- 13.4565
+   Mesh Index (1, 1, 115)
+     Total Material
+       heating                              550.796 +/- 20.6859
+       heating-local                        612.167 +/- 22.6436
+       Kappa-Fission Rate                   608.652 +/- 23.1327
+   Mesh Index (1, 1, 116)
+     Total Material
+       heating                              536.493 +/- 4.75102
+       heating-local                        598.371 +/- 5.09093
+       Kappa-Fission Rate                   590.694 +/- 4.53048
+   Mesh Index (1, 1, 117)
+     Total Material
+       heating                              512.156 +/- 10.4879
+       heating-local                        570.491 +/- 11.5416
+       Kappa-Fission Rate                   562.9 +/- 13.0546
+   Mesh Index (1, 1, 118)
+     Total Material
+       heating                              517.744 +/- 16.3721
+       heating-local                        576.763 +/- 18.0306
+       Kappa-Fission Rate                   568.874 +/- 19.5861
+   Mesh Index (1, 1, 119)
+     Total Material
+       heating                              499.885 +/- 16.9096
+       heating-local                        556.604 +/- 18.7004
+       Kappa-Fission Rate                   553.332 +/- 20.4202
+   Mesh Index (1, 1, 120)
+     Total Material
+       heating                              494.708 +/- 7.30445
+       heating-local                        550.517 +/- 8.00507
+       Kappa-Fission Rate                   544.404 +/- 9.45641
+   Mesh Index (1, 1, 121)
+     Total Material
+       heating                              470.78 +/- 6.62814
+       heating-local                        524.362 +/- 7.18998
+       Kappa-Fission Rate                   517.284 +/- 8.50124
+   Mesh Index (1, 1, 122)
+     Total Material
+       heating                              453.663 +/- 8.40518
+       heating-local                        504.645 +/- 9.20722
+       Kappa-Fission Rate                   498.975 +/- 8.81044
+   Mesh Index (1, 1, 123)
+     Total Material
+       heating                              456.658 +/- 10.221
+       heating-local                        508.412 +/- 11.7141
+       Kappa-Fission Rate                   500.049 +/- 10.3965
+   Mesh Index (1, 1, 124)
+     Total Material
+       heating                              453.385 +/- 6.96357
+       heating-local                        505.226 +/- 8.01627
+       Kappa-Fission Rate                   499.269 +/- 7.58433
+   Mesh Index (1, 1, 125)
+     Total Material
+       heating                              440.801 +/- 7.69572
+       heating-local                        491.058 +/- 8.56549
+       Kappa-Fission Rate                   483.209 +/- 8.8258
+   Mesh Index (1, 1, 126)
+     Total Material
+       heating                              434.527 +/- 6.68904
+       heating-local                        483.644 +/- 7.36341
+       Kappa-Fission Rate                   477.165 +/- 7.46957
+   Mesh Index (1, 1, 127)
+     Total Material
+       heating                              443.186 +/- 15.8045
+       heating-local                        493.608 +/- 17.5545
+       Kappa-Fission Rate                   486.648 +/- 15.6928
+   Mesh Index (1, 1, 128)
+     Total Material
+       heating                              396.918 +/- 9.25196
+       heating-local                        442.022 +/- 10.2551
+       Kappa-Fission Rate                   438.955 +/- 9.49611
+   Mesh Index (1, 1, 129)
+     Total Material
+       heating                              403.02 +/- 11.6434
+       heating-local                        448.731 +/- 12.8061
+       Kappa-Fission Rate                   442.956 +/- 13.0931
+   Mesh Index (1, 1, 130)
+     Total Material
+       heating                              388.088 +/- 8.76493
+       heating-local                        432.536 +/- 9.76346
+       Kappa-Fission Rate                   428.246 +/- 9.38888
+   Mesh Index (1, 1, 131)
+     Total Material
+       heating                              367.69 +/- 2.80826
+       heating-local                        409.593 +/- 3.26909
+       Kappa-Fission Rate                   402.916 +/- 4.07021
+   Mesh Index (1, 1, 132)
+     Total Material
+       heating                              354.428 +/- 10.5949
+       heating-local                        394.633 +/- 11.8249
+       Kappa-Fission Rate                   388.266 +/- 10.7531
+   Mesh Index (1, 1, 133)
+     Total Material
+       heating                              365.496 +/- 2.12271
+       heating-local                        406.807 +/- 2.51931
+       Kappa-Fission Rate                   401.431 +/- 1.71393
+   Mesh Index (1, 1, 134)
+     Total Material
+       heating                              354.587 +/- 8.26366
+       heating-local                        394.848 +/- 9.15182
+       Kappa-Fission Rate                   388.71 +/- 9.89016
+   Mesh Index (1, 1, 135)
+     Total Material
+       heating                              339.174 +/- 9.03922
+       heating-local                        377.565 +/- 10.0734
+       Kappa-Fission Rate                   373.036 +/- 9.28694
+   Mesh Index (1, 1, 136)
+     Total Material
+       heating                              313.861 +/- 8.57528
+       heating-local                        349.123 +/- 9.36525
+       Kappa-Fission Rate                   343.757 +/- 8.6484
+   Mesh Index (1, 1, 137)
+     Total Material
+       heating                              321.513 +/- 7.52539
+       heating-local                        358.216 +/- 8.43479
+       Kappa-Fission Rate                   351.164 +/- 7.9458
+   Mesh Index (1, 1, 138)
+     Total Material
+       heating                              307.072 +/- 6.38268
+       heating-local                        341.707 +/- 7.03804
+       Kappa-Fission Rate                   339.421 +/- 7.25631
+   Mesh Index (1, 1, 139)
+     Total Material
+       heating                              305.274 +/- 7.56913
+       heating-local                        339.816 +/- 8.29477
+       Kappa-Fission Rate                   338.223 +/- 9.08538
+   Mesh Index (1, 1, 140)
+     Total Material
+       heating                              281.53 +/- 2.67677
+       heating-local                        313.468 +/- 2.90068
+       Kappa-Fission Rate                   309.217 +/- 2.96057
+   Mesh Index (1, 1, 141)
+     Total Material
+       heating                              275.226 +/- 7.82162
+       heating-local                        306.586 +/- 8.87019
+       Kappa-Fission Rate                   300.395 +/- 8.52351
+   Mesh Index (1, 1, 142)
+     Total Material
+       heating                              257.695 +/- 4.97733
+       heating-local                        287.237 +/- 5.62058
+       Kappa-Fission Rate                   283.269 +/- 5.6393
+   Mesh Index (1, 1, 143)
+     Total Material
+       heating                              245.433 +/- 7.55136
+       heating-local                        272.837 +/- 8.3795
+       Kappa-Fission Rate                   269.618 +/- 8.00573
+   Mesh Index (1, 1, 144)
+     Total Material
+       heating                              231.78 +/- 7.94169
+       heating-local                        257.652 +/- 8.65305
+       Kappa-Fission Rate                   253.924 +/- 8.32601
+   Mesh Index (1, 1, 145)
+     Total Material
+       heating                              239.478 +/- 2.55661
+       heating-local                        266.351 +/- 2.81028
+       Kappa-Fission Rate                   263.272 +/- 3.4476
+   Mesh Index (1, 1, 146)
+     Total Material
+       heating                              238.579 +/- 9.61842
+       heating-local                        265.941 +/- 10.7314
+       Kappa-Fission Rate                   262.817 +/- 10.7699
+   Mesh Index (1, 1, 147)
+     Total Material
+       heating                              227.067 +/- 6.4363
+       heating-local                        252.793 +/- 6.94317
+       Kappa-Fission Rate                   249.063 +/- 7.35285
+   Mesh Index (1, 1, 148)
+     Total Material
+       heating                              189.824 +/- 9.51758
+       heating-local                        211.878 +/- 10.3556
+       Kappa-Fission Rate                   209.099 +/- 10.5867
+   Mesh Index (1, 1, 149)
+     Total Material
+       heating                              193.932 +/- 5.71955
+       heating-local                        216.145 +/- 6.3589
+       Kappa-Fission Rate                   212.887 +/- 6.13485
+   Mesh Index (1, 1, 150)
+     Total Material
+       heating                              181.045 +/- 10.618
+       heating-local                        201.131 +/- 11.5161
+       Kappa-Fission Rate                   199.81 +/- 12.8563
