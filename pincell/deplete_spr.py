@@ -26,6 +26,6 @@ power = 5440
 #results = openmc.deplete.ResultsList.from_hdf5('depletion_results.h5')
 operator = openmc.deplete.Operator(geometry, settings, "/home/ubuntu/xs_data/chain_endfb71.xml")
 
-time_steps = [7889238]*20
-integrator = openmc.deplete.CECMIntegrator(operator, time_steps, power)
+time_steps = [1971000]*100
+integrator = openmc.deplete.CELIIntegrator(operator, time_steps, power)
 integrator.integrate()
